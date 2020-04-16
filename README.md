@@ -1,10 +1,10 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design Challenge - Visualization Dashboard
 
-## Latitude - Latitude Analysis Dashboard with Attitude
+## Summary
 
 For this challenge, I created a visualization dashboard website using visualizations created in another challenge. Specifically, plotting [weather data](Resources/cities.csv).
 
-In building this dashboard, I created individual pages for each plot and the means to navigate between them. These pages contain the visualizations and their corresponding explanations. There is also a landing page where we can see a comparison of all of the plots, and another page to view the data used to build them.
+In building this dashboard, I created individual pages for each plot and the means to navigate between them. These pages contain the visualizations and their corresponding explanations. There is also a landing page with a comparison of all of the plots, and another page to view the data I used to build them.
 
 ### Requirements
 
